@@ -1,0 +1,6 @@
+.pt filter=lfs diff=lfs merge=lfs -text
+/Users/jihoon/venvs/skeleton-rnn/** filter=lfs diff=lfs merge=lfs -text
+/Users/jihoon/venvs/skeleton-rnn/yolov7.pt filter=lfs diff=lfs merge=lfs -text
+/Users/jihoon/venvs/skeleton-rnn/yolov7-w6-pose.pt filter=lfs diff=lfs merge=lfs -text
+/Users/jihoon/venvs/skeleton-rnn/traced_model.pt filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
